@@ -1,0 +1,58 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  background-image: url(../imgs/headerImg.jpg);
+}
+
+.bgGreen {
+  background-color: #28a745;
+}
+
+.logoCuppon {
+  width: 86px;
+  height: 25px;
+}
+
+.pHome {
+  font-family: "Indie Flower", cursive;
+}
+
+.bgHeader {
+  color: #000000;
+  padding-top: 23em;
+  background-color: rgba(40, 167, 69, 0.3);
+}
+
+.imgDog {
+  width: 278px;
+  height: 180px;
+}
+
+.dogRace,
+.colorPrice {
+  color: #28a745;
+}
+
+.sFont {
+  font-size: 12px;
+}
+
+.rPrice {
+  padding-bottom: 1em;
+}
+
+.cForm {
+  color: #ffffff;
+}
+
+.cardHorizontal {
+  padding-top: 5em;
+}
